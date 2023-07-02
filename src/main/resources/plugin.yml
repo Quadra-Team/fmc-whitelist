@@ -1,0 +1,5 @@
+name: fmc-whitelist
+version: '${project.version}'
+main: pl.frixumc.fmcwhitelist.Main
+api-version: '1.20'
+load: STARTUP
